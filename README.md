@@ -1,6 +1,6 @@
-# MiniCursoC
+# CursoC
 
-Códigos usados como exemplo no minicurso de C "Programe-C"
+Códigos usados como exemplo no minicurso de C para calouros de computação
 
-Slides do Mini curso:
-https://docs.google.com/presentation/d/1DG-neXh5SfEW_leGH3jwkT4cFr8VgWTHEg8x8sMZctA/edit?usp=sharing
+Material do Curso:
+https://drive.google.com/drive/folders/1GdkD4j-pBPdFgq28xbWWEYkS-Il8hakd?usp=sharing
