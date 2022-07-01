@@ -48,7 +48,7 @@ int main()
             printf("Seu mes favorito eh Dezembro\n");
         break;
         default:
-            printf("So existem 12 meses, digite um numero valido da proxima vez!");
+            printf("So existem 12 meses, digite um numero valido da proxima vez!\n");
         break;
     }
 

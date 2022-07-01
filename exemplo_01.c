@@ -29,7 +29,7 @@ int main()
     int xElevado = 0;
 
     xElevado = potencia(x, y);
-    printf("%i", xElevado);
+    printf("%i\n", xElevado);
 
     return 0;
 }

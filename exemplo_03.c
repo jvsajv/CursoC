@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("To entendendo tudo!");
+    printf("To entendendo tudo!\n");
     return 0;
 }

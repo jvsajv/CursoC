@@ -8,6 +8,6 @@ int main(){
         printf("Esse numero nao eh MAIOR QUE 9, digite outro: \n");
         scanf("%d", &resposta);
     }
-    printf("Parabens, esse numero eh maior que 9!");
+    printf("Parabens, esse numero eh maior que 9!\n");
     return 0;
 }

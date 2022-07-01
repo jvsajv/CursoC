@@ -11,6 +11,6 @@ int main()
     printf("Raio da Esfera: \n");
     scanf("%f", &raio);
     areaEsfera = QUATRO * pi * pow(raio, 2);
-    printf("Area da Esfera: %f", areaEsfera);
+    printf("Area da Esfera: %f\n", areaEsfera);
     return 0;
 }

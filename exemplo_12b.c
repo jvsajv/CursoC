@@ -9,6 +9,6 @@ int main(){
             printf("Esse numero nao eh MAIOR QUE 9, digite outro: \n");
         }
     }while(resposta <= 9);
-    printf("Parabens, esse numero eh maior que 9!");
+    printf("Parabens, esse numero eh maior que 9!\n");
     return 0;
 }

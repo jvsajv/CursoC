@@ -12,7 +12,7 @@ int main()
     scanf("%i", &b);
     soma = a + b;
 
-    printf("A + B = %i", soma);
+    printf("A + B = %i\n", soma);
     
     return 0;
 }
